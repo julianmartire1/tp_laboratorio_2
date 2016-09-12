@@ -1,0 +1,9 @@
+C:\Users\julian\Desktop\Cuatrimestre 2\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe.config
+C:\Users\julian\Desktop\Cuatrimestre 2\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.pdb
+C:\Users\julian\Desktop\Cuatrimestre 2\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\Cuatrimestre 2\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.Form1.resources
+C:\Users\julian\Desktop\Cuatrimestre 2\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.Properties.Resources.resources
+C:\Users\julian\Desktop\Cuatrimestre 2\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.csproj.GenerateResource.Cache
+C:\Users\julian\Desktop\Cuatrimestre 2\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.pdb
