@@ -1,0 +1,12 @@
+C:\Users\julian\Desktop\TrabajoPractico2\TrabajoPractico2\bin\Debug\TrabajoPractico2.exe.config
+C:\Users\julian\Desktop\TrabajoPractico2\TrabajoPractico2\bin\Debug\TrabajoPractico2.exe
+C:\Users\julian\Desktop\TrabajoPractico2\TrabajoPractico2\bin\Debug\TrabajoPractico2.pdb
+C:\Users\julian\Desktop\TrabajoPractico2\TrabajoPractico2\obj\Debug\TrabajoPractico2.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\TrabajoPractico2\TrabajoPractico2\obj\Debug\TrabajoPractico2.exe
+C:\Users\julian\Desktop\TrabajoPractico2\TrabajoPractico2\obj\Debug\TrabajoPractico2.pdb
+C:\Users\julian\Desktop\Programacion\tp2_laboratorio2\TrabajoPractico2\TrabajoPractico2\bin\Debug\TrabajoPractico2.exe.config
+C:\Users\julian\Desktop\Programacion\tp2_laboratorio2\TrabajoPractico2\TrabajoPractico2\obj\Debug\TrabajoPractico2.exe
+C:\Users\julian\Desktop\Programacion\tp2_laboratorio2\TrabajoPractico2\TrabajoPractico2\obj\Debug\TrabajoPractico2.pdb
+C:\Users\julian\Desktop\Programacion\tp2_laboratorio2\TrabajoPractico2\TrabajoPractico2\bin\Debug\TrabajoPractico2.exe
+C:\Users\julian\Desktop\Programacion\tp2_laboratorio2\TrabajoPractico2\TrabajoPractico2\bin\Debug\TrabajoPractico2.pdb
+C:\Users\julian\Desktop\Programacion\tp2_laboratorio2\TrabajoPractico2\TrabajoPractico2\obj\Debug\TrabajoPractico2.csprojResolveAssemblyReference.cache
