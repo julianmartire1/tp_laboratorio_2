@@ -1,0 +1,7 @@
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.exe
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.exe
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.exe
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
