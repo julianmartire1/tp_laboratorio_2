@@ -1,0 +1,5 @@
+C:\Users\julian\Desktop\tp3\Martire.Julian.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\julian\Desktop\tp3\Martire.Julian.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\julian\Desktop\tp3\Martire.Julian.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\tp3\Martire.Julian.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\julian\Desktop\tp3\Martire.Julian.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb

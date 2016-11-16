@@ -11,3 +11,5 @@ C:\Users\julian\Desktop\Martire.Julian.2A.TP3\Consola_TP3\bin\Debug\Excepciones.
 C:\Users\julian\Desktop\Martire.Julian.2A.TP3\Consola_TP3\obj\Debug\Consola_TP3.csprojResolveAssemblyReference.cache
 C:\Users\julian\Desktop\Martire.Julian.2A.TP3\Consola_TP3\obj\Debug\Consola_TP3.exe
 C:\Users\julian\Desktop\Martire.Julian.2A.TP3\Consola_TP3\obj\Debug\Consola_TP3.pdb
+C:\Users\julian\Desktop\Programacion\tp_laboratorio_2\TrabajoPractico3\Martire.Julian.2A.TP3\Consola_TP3\obj\Debug\Consola_TP3.exe
+C:\Users\julian\Desktop\Programacion\tp_laboratorio_2\TrabajoPractico3\Martire.Julian.2A.TP3\Consola_TP3\obj\Debug\Consola_TP3.pdb
